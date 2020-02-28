@@ -1,0 +1,39 @@
+body {
+    font-family: "Dejavu Sans";
+    background-color: #0b1c00;
+    color: white;
+}
+
+#outer {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+#inner {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu {
+    border: 4px solid white;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+#menu ul {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}
